@@ -1,13 +1,11 @@
 # referenced-TI
-Code for the referenced thermodynamic integration (TI) method of calculating model evidence, used to generate results in the paper
+Code for the referenced thermodynamic integration (TI) method of calculating model evidence, used to generate results in the paper ([preprint](https://arxiv.org/abs/2009.03851))
 
 # Simulating normalised constants with referenced thermodynamic integration: application to COVID-19 model selection
 
-authors: Iwona Hawryluk, Swapnil Mishra, Seth Flaxman, Neil Ferguson, Samir Bhatt and Thomas A. Mellan
+authors: Iwona Hawryluk, Swapnil Mishra, Seth Flaxman, Samir Bhatt and Thomas A. Mellan
 MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London
 Department of Mathematics, Imperial College London
-
-August 2020
 
 ## Abstract:
 
