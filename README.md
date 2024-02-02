@@ -1,7 +1,7 @@
 # referenced-TI
-Code for the referenced thermodynamic integration (TI) method of calculating model evidence, used to generate results in the paper ([preprint](https://arxiv.org/abs/2009.03851))
+Code for the referenced thermodynamic integration (TI) method of calculating model evidence, used to generate results in the paper ([PLOS ONE article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289889))
 
-# Simulating normalised constants with referenced thermodynamic integration: application to COVID-19 model selection
+# Application of referenced thermodynamic integration to Bayesian model selection
 
 authors: Iwona Hawryluk, Swapnil Mishra, Seth Flaxman, Samir Bhatt and Thomas A. Mellan
 MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London
@@ -33,3 +33,5 @@ The code in this repository is organised as follows:
   - *load_bellman_harris_outputs.py* - loads and processes the outputs of all variants of the model; calculates log-evidence and Bayes Factors based on the Laplace approximation and the referenced TI outputs
   - *posterior_plots.py* - plots of the posterior distributions and generated quantities of different models
 
+## Citation
+Hawryluk I, Mishra S, Flaxman S, Bhatt S, Mellan TA (2023) Application of referenced thermodynamic integration to Bayesian model selection. PLOS ONE 18(8): e0289889. https://doi.org/10.1371/journal.pone.0289889
